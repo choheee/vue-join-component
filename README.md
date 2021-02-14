@@ -1,4 +1,4 @@
-# homework2
+# vue.js - join component
 
 ## Project setup
 ```
