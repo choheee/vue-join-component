@@ -1,0 +1,6 @@
+Installation
+--------------------------------------
+You can install it via yarn or NPM.
+
+$ yarn add vue-resource
+$ npm install vue-resource
